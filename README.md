@@ -6,7 +6,7 @@ projects.
 
 
 ## About me 
-- My hobbies: 🎥 Youtube content creator | 🏋️ Weight training 
+- My hobbies: 🎥 Youtube content creator | 🏋️ Weight training | 📚 Learning
 - Languages: Arabic, English and Russian.
 - I'm currently actively learning React & Redux.
 - 🌎: I live in Moscow, Russia.
