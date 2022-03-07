@@ -14,7 +14,7 @@ projects.
 ## Contact me :mailbox_with_no_mail:
 [![Telegram Badge](https://img.shields.io/badge/@LordHomie-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lordhomie)
 [![Email Badge](https://img.shields.io/badge/hamouda99@windowslive.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hamouda99@windowslive.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/mohamad-abo-alnaser-63aa03233)
 
 ### My Tech Experience
 #### Languages
